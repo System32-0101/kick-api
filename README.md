@@ -4,5 +4,5 @@ Some of what I have are:
 
 ## Channel Info
 > https://kick.com/api/v2/channels/systemm32
-> ![go](
-https://kick.com/api/v2/channels/systemm32)
+<br/>
+> Go > ![](https://kick.com/api/v2/channels/systemm32)
