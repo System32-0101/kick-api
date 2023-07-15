@@ -5,4 +5,7 @@ Some of what I have are:
 ## Channel Info
 > https://kick.com/api/v2/channels/systemm32
 <br/>
-
+## User Chat
+> https://kick.com/api/v2/channels/{user.chatroom.channel_id}/messages
+> Parameter: property `channel_id`, found in Channel Info request, `chatroom` object.
+<br/>
